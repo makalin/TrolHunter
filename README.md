@@ -72,9 +72,9 @@ Results saved to troll_detection_results.csv
 
 ## Contributing
 Feel free to fork, submit issues, or send pull requests! Ideas for improvement:
-[] Add more advanced NLP for Turkish.
-[] Implement real-time monitoring.
-[] Enhance scoring with machine learning.
+[ ] Add more advanced NLP for Turkish.
+[ ] Implement real-time monitoring.
+[ ] Enhance scoring with machine learning.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
