@@ -1,5 +1,7 @@
 # TrolHunter
 
+![TrolHunter Logo](trolhunter_logo.jpg)
+
 **TrolHunter** is a Python-based tool designed to detect and identify troll accounts on X (Twitter), with a focus on Turkish-language content. It analyzes user profiles, tweets, and behavior patterns to assign a "troll score," helping you decide whether to block or ignore aggressive accounts attacking your profile.
 
 ## Features
