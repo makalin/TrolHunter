@@ -1,5 +1,7 @@
 # TrolHunter
 
+![TrolHunter Logo](trolhunter_logo.png)
+
 **TrolHunter**, X (Twitter) platformunda trol hesaplarını tespit etmek ve tanımlamak için tasarlanmış, Python tabanlı bir araçtır ve özellikle Türkçe içeriğe odaklanır. Kullanıcı profillerini, tweet'leri ve davranış kalıplarını analiz ederek bir "trol puanı" atar; bu, profilinize saldıran agresif hesapları engelleyip engellememeye veya yok saymaya karar vermenize yardımcı olur.
 
 ## Özellikler
